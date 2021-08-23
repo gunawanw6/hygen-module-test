@@ -1,0 +1,3 @@
+command:
+
+hygen module new getItemList --fileName="itemList"
